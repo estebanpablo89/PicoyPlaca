@@ -1,0 +1,6 @@
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe.config
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.pdb
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csprojResolveAssemblyReference.cache
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.exe
+c:\users\serverreportes\documents\visual studio 2012\Projects\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.pdb
