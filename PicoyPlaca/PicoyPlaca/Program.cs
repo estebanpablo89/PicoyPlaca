@@ -65,10 +65,8 @@ namespace PicoyPlaca
                     Console.WriteLine("You can't use the car");
                 if (fecha.DayOfWeek.Equals("Friday") && (dato.ultimoDigito() == 9 || dato.ultimoDigito() == 0))
                     Console.WriteLine("You can't use the car");
-                else
-                {
+                if(fecha.DayOfWeek.Equals("Saturday")||fecha.DayOfWeek.Equals("Sunday"))
                     Console.WriteLine("No problem with Pico y Placa :)");
-                }
             }
             else
             {
