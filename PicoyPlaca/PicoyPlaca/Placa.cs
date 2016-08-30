@@ -16,9 +16,9 @@ namespace PicoyPlaca
         }
         public int ultimoDigito()
         {
-            String test=numero.ToString();
-            char last = test[test.Length - 1];
-            return Convert.ToInt16(last);
+            String test = numero.ToString();
+             test = test.Substring(test.Length - 1);
+             return Convert.ToInt16(test);
         }
     }
 }
